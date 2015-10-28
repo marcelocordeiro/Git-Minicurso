@@ -14,7 +14,7 @@ Agora vamos às contribuições! Entre no repositório na conta de vocês (é im
 
 ![Clone URL](images/clone.jpg)
 
-Clonem o repositório na conta de vocês e façam sua contribuição no arquivo [Links.md](Links.md). Reparem a extensão do arquivo, .md, reparem que também é esse a extensão deste README. 
+Clonem o repositório no computador de vocês e façam sua contribuição no arquivo [Links.md](Links.md). Reparem a extensão do arquivo, .md, reparem que também é esse a extensão deste README. 
 
 Md é a extensão de arquivos Markdown, que é um formato para arquivos de textos mais elaborados, com imagens, links, etc. É o formato usado como padrão para documentação em Git, sua sintaxe é extremamente simples e fácil de aprender. E como vocês podem ver, o GitHub automaticamente já interpreta esse arquivo e o mostra formatado para vocês. Além disso, ao entrar no repositório ele automaticamente já abre o arquivo README.md, como se fosse a página de boas-vindas do seu repositório. 
 
@@ -24,11 +24,11 @@ Antes de editar o arquivo, é uma prática comum criar um branch novo que descre
 
 Portanto, criem um branch novo (neste exemplo, para simular uma contribuição feita por mim, eu o chamarei de _MarcelosContribution_, mas vocês podem chamá-lo como quiser), mudem para esse branch, editem o arquivo no seu computador, adicionem sua contribuição (ou contribuições), e então de um commit para o seu repositório. Nesse momento a sua contribuição está salva apenas no seu computador, o próximo passo é enviar ela para o seu repositório no GitHub.
 
-Mas antes disso, lembram que eu falei que o repositório "forkado" não tem absolutamente nada de diferente que um repositório normal? Após o fork, o repositório que foi copiado para a sua conta e o da minha conta ficam completamente independentes um do outro, ou seja, se eu alterar algo no meu repositório, não irá alterar nada no seus.
+Mas antes disso, lembram que eu falei que o repositório "forkado" não tem absolutamente nada de diferente que um repositório normal? Após o fork, o repositório que foi copiado para a sua conta e o da minha conta ficam independentes um do outro, ou seja, se eu alterar algo no meu repositório, não irá alterar nada no seu.
 
 Suponha que, desde que você fez o fork e enquanto trabalhava na sua contribuição, eu já aceitei a contribuição de outras pessoas. Portanto, o meu repositório estará diferente do seu. Se quiser, você ainda pode ignorar essas mudanças e me enviar sua contribuição, mas isso muito provavelmente iria gerar um conflito quando eu for aceitá-la, afinal, o arquivo Links.md que você editou agora já é diferente do arquivo que eu tenho.
 
-Pensando em projetos OpenSource de verdade, o seu objetivo é ajudar o dono do projeto, e não dá-lo ainda mais trabalho precisando resolver conflitos para conseguir incorporar suas mudanças ao projeto dele. Portanto, é extremamente importante que você antes atualize o seu repositório local para que ele fique sincronizado com o repositório do projeto original. Assim, se for para ocorrer algum conflito, você mesmo já o resolve antes de enviar sua contribuição.
+Pensando em projetos OpenSource de verdade, o seu objetivo é ajudar o dono do projeto, e não dá-lo ainda mais trabalho precisando resolver conflitos para conseguir incorporar suas mudanças ao projeto. Portanto, é extremamente importante que você antes atualize o seu repositório local para que ele fique sincronizado com o repositório do projeto original. Assim, se for para ocorrer algum conflito, você mesmo já o resolve antes de enviar sua contribuição.
 
 Fazer isso é muito simples, lembram que eu disse durante o curso que o seu repositório no GitHub (ou em qualquer outro servidor de Git) é apenas um branch remoto no seu projeto? E então quando você faz um git fetch ou git pull, ele atualiza os ponteiros desse branch remoto, ou seja, ele sincroniza o seu repositório local com o seu repositório no GitHub.
 
@@ -87,15 +87,15 @@ Se você se esquecer disso e sua contribuição de fato for gerar algum conflito
 
 ![Pull Request](images/conflito.jpg)
 
-Finalmente, agora vocês já podem me enviar sua contribuição! É só criar o Pull Request :D
+Finalmente, após resolver os possíveis conflitos, agora vocês já podem me enviar sua contribuição! É só criar o Pull Request :D
 
 ![Pull Request](images/pull-request.jpg)
 
-Eu irei receber uma notificação no meu repositório me pedindo para analisar a contribuição de vocês. Depois que eu aceita-la, ela automaticamente será adicionada ao meu projeto.
+Eu irei receber uma notificação no meu repositório me pedindo para analisar a contribuição de vocês. Depois que eu aceitá-la, ela automaticamente será adicionada ao meu projeto.
 
 ---
 
-Espero que vocês tenham gostado do nosso curso e desse último exercício. Tentei fazer ele bem simples e focar mais na teoria por trás, assim espero que vocês o consigam expandir para contribuir de verdade com qualquer projeto no GitHub.
+Espero que vocês tenham gostado do nosso curso e desse último exercício. Tentei fazer algo bem simples e focar mais em conceitos chaves, assim espero que vocês consigam expandir a ideia e contribuir de verdade com qualquer projeto no GitHub.
 
 Qualquer dúvida ou sugestão que vocês tiverem, me enviem um e-mail (marcelo.augusto.cordeiro@gmail.com) ou me procurem no Facebook, ficarei feliz com o feedback de vocês ;)
 
