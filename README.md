@@ -1,12 +1,20 @@
-#Minicurso - Controle de Versão usando o Git
+# Minicurso - Controle de Versão usando o Git
 
 Bem vindos ao nosso minicurso de Git!
 
 Os slides do minicurso estão disponíveis [aqui](Slides.pdf).
 
-E também usaremos este repositório para completar o último exercício do nosso curso.
+E também usaremos este repositório para completar o último [exercício](#exercício) do nosso curso.
 
----
+## Participação em Eventos
+
+Eventos em que essa palestra foi ministrada:
+
+| Evento | Palestrantes | Data |
+| ------ | ------------ | ---- |
+| [JDI 2015 - Jornada de Informática](https://www.facebook.com/jdibauru) | [Marcelo Cordeiro](https://github.com/marcelocordeiro), [Luís Puhl](https://github.com/luis-puhl) e [Gabriel Oliveira](https://github.com/gabrielboliveira) | 22/10/2015 |
+
+## Exercício
 
 Neste exercício iremos simular como trabalhar em um projeto OpenSource. O primeiro passo, como discutimos no nosso curso, é dar um Fork no repositório onde o projeto está hospedado. O Fork irá copiar todo o projeto, incluindo a base de dados do Git (commits, branches, etc), para a sua conta do GitHub. Assim você poderá trabalhar com o projeto como se ele fosse seu, realizando quantos pulls e pushes você achar necessário.
 
