@@ -47,3 +47,9 @@ Link: http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/
 (baseado em https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md)
 
 ---
+
+Autor: Marcelo Cordeiro
+
+Link: https://www.gitignore.io/
+
+---
