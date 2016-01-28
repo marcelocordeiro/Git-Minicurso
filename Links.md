@@ -53,3 +53,8 @@ Autor: Marcelo Cordeiro
 Link: https://www.gitignore.io/
 
 ---
+
+Autor: Matheus Coelho Solha
+Me add no face: https://www.facebook.com/ma.theus.eu
+
+---
