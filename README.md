@@ -2,7 +2,7 @@
 
 Bem vindos ao nosso minicurso de Git!
 
-Os slides do minicurso estão disponíveis [aqui](Slides.pdf).
+Os slides do minicurso estão disponíveis em PDF [aqui](Slides.pdf) e em PPTX [aqui](Slides.pptx).
 
 E também usaremos este repositório para completar o último [exercício](#exercício) do nosso curso.
 
@@ -13,6 +13,7 @@ Eventos em que essa palestra foi ministrada:
 | Evento | Palestrantes | Data |
 | ------ | ------------ | ---- |
 | [JDI 2015 - Jornada de Informática](https://www.facebook.com/jdibauru) | [Marcelo Cordeiro](https://github.com/marcelocordeiro), [Luís Puhl](https://github.com/luis-puhl) e [Gabriel Oliveira](https://github.com/gabrielboliveira) | 22/10/2015 |
+| Minicursos LTIA | [Marcelo Cordeiro](https://github.com/marcelocordeiro) | 28/01/2016 |
 
 ## Exercício
 
