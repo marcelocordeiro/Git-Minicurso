@@ -1,4 +1,4 @@
-# Minicurso - Controle de Versão usando o Git
+# Minicurso - Controle de Versão usando Git
 
 Bem vindos ao nosso minicurso de Git!
 
